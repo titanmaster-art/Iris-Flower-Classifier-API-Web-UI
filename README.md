@@ -3,8 +3,8 @@
 A streamlined MLOps pipeline that trains a Random Forest model using scikit-learn, wraps it in a Flask web API, and containerizes the entire environment with Docker. It includes an elegant front-end interface built with Tailwind CSS for making real-time interactive predictions.
 
 ## Developer Info
-* **Name:** Akshat Garg
-* **Registration Number:** 23BCE10641
+* **Name:** ARIGHNA GUPTA
+* **Registration Number:** 23BCY10207
 
 ---
 
